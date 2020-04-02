@@ -1,6 +1,6 @@
-md5: 037a68ffe198a878e73d5f890738fbf9
+md5: 87f40fa3121820747674ecc443b745a4
 outs:
-- md5: 697dbcae88aa196c53c7a5ff9cfa8dba
+- md5: 4979945c59ca9d831a5dbc0e15bb6ea6
   path: test.bin
   cache: true
   metric: false
